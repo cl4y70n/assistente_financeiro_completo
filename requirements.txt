@@ -1,0 +1,13 @@
+langchain
+langchain-core
+huggingface_hub
+transformers
+pandas
+numpy
+streamlit
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread
+scikit-learn
+matplotlib
